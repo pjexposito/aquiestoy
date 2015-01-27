@@ -1,0 +1,28 @@
+{
+    "appKeys": {
+        "location": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Pedro",
+    "longName": "Aqu\u00ed estoy",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/descarga.png",
+                "menuIcon": true,
+                "name": "IMAGEN_MINI",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Aqui estoy",
+    "uuid": "9aa7e281-a8b1-472d-91ca-0dab124b8456",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
